@@ -293,6 +293,8 @@ footer {
 
 .servbox div a{
 	margin: 50px;
+	border-radius: 10px;
+	padding: 3px;
 	
 }
 
